@@ -109,14 +109,14 @@ In this Report, I have used three dashboards and those are controlled by Buttons
 </a></p>
 
 10.(a) In this Product Detail Table, I came to know that the top 3 Product on the basis of total sales are as follow :
-    - TEC-PH-3148 : Phones-Technology category
-    - TEC-PH-3806 : Phones-Technology category
-    - TEC-PH-5268 : Phones-Technology category 
+- TEC-PH-3148 : Phones-Technology category
+- TEC-PH-3806 : Phones-Technology category
+- TEC-PH-5268 : Phones-Technology category 
     
 10.(b) Whereas the bottom 3 Product on the basis of total sales are as follow :
-    - OFF-AP-4215 : Appliances-OfficeSupplies category
-    - OFF-LA-3220 : Labels-OfficeSupplies category
-    - OFF-PA-6560 : Paper-OfficeSupplies category
+- OFF-AP-4215 : Appliances-OfficeSupplies category
+- OFF-LA-3220 : Labels-OfficeSupplies category
+- OFF-PA-6560 : Paper-OfficeSupplies category
 
 <p align="center">
 <a><img src="https://github.com/Ritika821/Amazon-Sales-Tableau-Dashboard/blob/main/Graphs/Detail/Product%20Detail.png">
