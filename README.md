@@ -15,7 +15,7 @@ This project is about the Amazon Sales Analysis Report. Amazon is an American mu
 ## This Project Includes :
 
 - **Data Import :** Connected data from the Text File and Transform it by ensuring accurate Data Type.
-- **Data Processing :** Ensured accuracy and consistency in the data with the help of Excel Advanced features like Text to Column, changed Data Type, Remove Dublicates etc.
+- **Data Processing :** Ensured accuracy and consistency in the data with the help of Excel Advanced features like Text to Column, changed Data Type, Remove Duplicates etc.
 - **Performing Descriptive Analysis :** Created various Calculated Fields, generated KPI by selecting the significant columns from vast data
 - **Data Visualization :** Constructed some meaningful insights from the processed data through Show me Field and alter the format of charts in Marks Pane.
 - **Creation of Dashboard :** Assembled all the significant worksheets in the dashboard sheet with some additional features like Filters, Buttons, Images, Text Box etc. from the Objects field.
@@ -44,7 +44,7 @@ In this Project I have generated Calculated Fields like, Total Orders i.e. 51.3K
 6. In which year the total order has maximized ?
 7. Which Category and Sub-Category has maximum total order ?
 8. Which Segment has maximum ordered from the Amazon Company ?
-9. Which Shipmode and Order Priority together has got maximum order ?
+9. Which Ship mode and Order Priority together has got maximum order ?
 10. What are the product id, category and sub-category of the top 3 products on the basis of total orders ?
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -90,7 +90,7 @@ In this Report, I have used three dashboards and those are controlled by Buttons
 <a><img src="https://github.com/Ritika821/Amazon-Sales-Tableau-Dashboard/blob/main/Graphs/Overview/Year-wise%20Total%20Order.png" height="200">
 </a></p>
 
-7. In this Sunbrust Chart, I got that maximum order came from Office Supplies category in which Binders sub-category is highly popular whereas the category from which company has got least number of orders was Furniture in which Tables sub-category was on the last position.
+7. In this Sunburst Chart, I got that maximum order came from Office Supplies category in which Binders sub-category is highly popular whereas the category from which company has got least number of orders was Furniture in which Tables sub-category was on the last position.
 
 <p align="center">
 <a><img src="https://github.com/Ritika821/Amazon-Sales-Tableau-Dashboard/blob/main/Graphs/Overview/Category-wise%20Total%20Order.png" height="200">
@@ -102,7 +102,7 @@ In this Report, I have used three dashboards and those are controlled by Buttons
 <a><img src="https://github.com/Ritika821/Amazon-Sales-Tableau-Dashboard/blob/main/Graphs/Overview/Segment-wise%20Total%20Orders.png" height="200">
 </a></p>
 
-9. From this Pie Chart, I got that from Standard Class shipmode with Medium order priority, company has got the maximum order whereas from Same Day shipmode with Critical order priority, company has got the least number of orders.
+9. From this Pie Chart, I got that from Standard Class ship mode with Medium order priority, company has got the maximum order whereas from Same Day ship mode with Critical order priority, company has got the least number of orders.
 
 <p align="center">
 <a><img src="https://github.com/Ritika821/Amazon-Sales-Tableau-Dashboard/blob/main/Graphs/Overview/Shipmode%20and%20Order%20Priority%20wise%20Total%20Orders.png" height="200">
@@ -114,9 +114,9 @@ In this Report, I have used three dashboards and those are controlled by Buttons
 - TEC-PH-5268 : Phones-Technology category 
     
 10.(b) Whereas the bottom 3 Product on the basis of total sales are as follow :
-- OFF-AP-4215 : Appliances-OfficeSupplies category
-- OFF-LA-3220 : Labels-OfficeSupplies category
-- OFF-PA-6560 : Paper-OfficeSupplies category
+- OFF-AP-4215 : Appliances-Office Supplies category
+- OFF-LA-3220 : Labels-Office Supplies category
+- OFF-PA-6560 : Paper-Office Supplies category
 
 <p align="center">
 <a><img src="https://github.com/Ritika821/Amazon-Sales-Tableau-Dashboard/blob/main/Graphs/Detail/Product%20Detail.png">
@@ -127,7 +127,7 @@ In this Report, I have used three dashboards and those are controlled by Buttons
 
 ## Conclusion :
 
-From this report, I found that Amazon Company wass not at the adequate operating margin as its overall profit percent was just almost 11%. As we can see from the above insights that in many countries Company has suffered from losses. To recover from this situation Company should focus on the customer behaviour, their requirements and should improve its service facilities in order to get better feedback otherwise company will might be passed out by its competitors if it will loses the opportunity. This report and dashboard is helpful for gaining knowledge about the circumstances of the Amazon Company and to do comparison between its various categories, regions and countries, to know in which Country Amazon is highly popular and in which region it was suffering from loss and we can derive other meaningful information according to our requirement from this report.
+From this report, I found that Amazon Company was not at the adequate operating margin as its overall profit percent was just almost 11%. As we can see from the above insights that in many countries Company has suffered from losses. To recover from this situation Company should focus on the customer behaviour, their requirements and should improve its service facilities in order to get better feedback otherwise company will might be passed out by its competitors if it will loses the opportunity. This report and dashboard is helpful for gaining knowledge about the circumstances of the Amazon Company and to do comparison between its various categories, regions and countries, to know in which Country Amazon is highly popular and in which region it was suffering from loss and we can derive other meaningful information according to our requirement from this report.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
