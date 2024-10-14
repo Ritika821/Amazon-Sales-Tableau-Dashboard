@@ -23,6 +23,14 @@ This project is about the Amazon Sales Analysis Report. Amazon is an American mu
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+## Dashboard :
+
+<p>
+    <a href="https://public.tableau.com/views/TableauDashboard3_17288850282450/Overview?:showVizHome=no&:embed=true"><img src="https://github.com/Ritika821/Amazon-Sales-Tableau-Dashboard/blob/main/Graphs/Dashboard.png"/>
+    </a>
+</p>
+
+
 ## Project KPI :
 
 In this Project I have generated Calculated Fields like, Total Orders i.e. 51.3K, Total Sales i.e. $12.6M, Total Profit i.e. $1.5M, Total Quantity Sold i.e. 178.3K, Average Discount i.e. 14.3% and Profit Percent i.e. 11.6%. I have presented these in the form of KPI in the Dashboard.
